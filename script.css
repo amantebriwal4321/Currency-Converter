@@ -6,7 +6,7 @@
 body{
     display:flex;
     justify-content: center;
-    background-color: aqua;
+    background-color: #f4d58d;
     align-items: center;
     min-height:100vh;
 
